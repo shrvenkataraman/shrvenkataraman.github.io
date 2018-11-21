@@ -204,6 +204,27 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+defaults:
+  - scope:
+      path: blog.md
+    values:
+      menu: true
+      order: 1
+  - scope:
+      path: projects.md
+    values:
+      menu: true
+      order: 2
+  - scope:
+      path: current_work.md
+    values:
+      menu: true
+      order: 3
+  - scope:
+      path: about.md
+    values:
+      menu: true
+      order: 4
 
 # Plugins and Plugin Configuration
 # ========================================================================================
