@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Shravan Venkataraman
+title:                 SHRAVAN Venkataraman
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -75,15 +75,15 @@ theme_color:           rgb(25,55,71)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-google_fonts:          Roboto+Slab:400|Noto+Sans:400,400i,700,700i
+google_fonts:          Poppins:600|Montserrat:400,400i,700,700
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Noto Sans, Helvetica, Arial, sans-serif
+font:                  Montserrat, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
+font_heading:          Poppins, Helvetica, Arial, sans-serif
 
 defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
