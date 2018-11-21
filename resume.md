@@ -19,6 +19,7 @@ hide_description: false
 # Setting `menu` will generate an entry in the sidebar.
 menu: true
 order: 5
----
 rel: me
+---
+
 ### Download my full resume [here](/assets/Shravan_Venkataraman-Resume.pdf).
