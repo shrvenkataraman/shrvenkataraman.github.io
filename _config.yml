@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
- url:                   https://shrvenkataraman.github.io
+# url:                   https://<username>.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,22 +12,24 @@
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
- baseurl:               ''
+# baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Shravan Venkataraman
+title:                 Hydejack Starter Kit
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Thinker, Programmer, Researcher, and a Quant Finance aficionado.
+  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
+  Combines the best of static sites and modern web apps.
+  Open `_config.yml` to edit this text.
 # A shorter description for the sidebar.
 tagline:               >
-  Thinker, Progrmmer, Researcher, Quant Finance aficionado.
+  Open `_config.yml` to edit this text.
 # A list of keywords for your blog.
 keywords:              []
 
@@ -37,10 +39,10 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Shravan Venkataraman
-  email:               heraclesphaeton@gmail.com
+  name:                <firstname> <lastname>
+  email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
-   twitter:             theBuoyantMan
+  # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
