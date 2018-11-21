@@ -225,6 +225,11 @@ defaults:
     values:
       menu: true
       order: 4
+  - scope:
+      path: resume.md
+    values:
+      menu: true
+      order: 5
 
 # Plugins and Plugin Configuration
 # ========================================================================================
