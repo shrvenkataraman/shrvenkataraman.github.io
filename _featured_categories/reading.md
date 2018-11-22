@@ -13,6 +13,6 @@ description: >
   This is a collection of the reviews of books Shravan Venkataraman has read.
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
-menu: true
+menu: false
 order: 6
 ---
