@@ -1,4 +1,4 @@
-# Config
+﻿# Config
 # ========================================================================================
 
 # IMPORTANT: Set the URL of your site.
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 SHRAVAN Venkataraman
+title:                 Shravan Venkataraman
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -75,11 +75,11 @@ theme_color:           rgb(25,55,71)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-google_fonts:          Poppins:600|Montserrat:400,400i,700,700
+google_fonts:          Poppins:600|PT+Serif:400,400i,700,700
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Montserrat, Helvetica, Arial, sans-serif
+font:                  PT Serif, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
@@ -249,7 +249,7 @@ plugins:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-remote_theme: qwtel/hydejack@v8.1.1
+remote_theme: shrvenkataraman/hydejack@v8.1.1
 
 
 # SEO Tag
