@@ -16,6 +16,6 @@ order: 5
 
 ## WRITING SAMPLES:
 
-Download my _Undergraduate Thesis Report_ [here](/assets/Undergraduate_Thesis.pdf).
+Download my _Undergraduate Thesis Report_ [here](/assets/UG_Thesis.pdf).
 
 Download my _Senior Year Project Report_ [here](/assets/Final_Project.pdf).
