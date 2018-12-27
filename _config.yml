@@ -249,7 +249,7 @@ plugins:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-remote_theme: shrvenkataraman/hydejack@v8.1.1
+remote_theme: shrvenkataraman/hydejack@v8
 
 
 # SEO Tag
